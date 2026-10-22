@@ -1,0 +1,13 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires de Jupyter et de Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Brouillons de travail (non publiés)
+brouillons/
+
+# Prix bruts retéléchargés (seul data/prix.csv est versionné)
+data/prix_bruts.csv
